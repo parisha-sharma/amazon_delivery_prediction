@@ -279,8 +279,8 @@ This project is licensed under the MIT License.
 
 **Your Name Here**
 
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-linkedin](https://www.linkedin.com/in/your-linkedin)
+- GitHub: [parisha-sharma](https://github.com/parisha-sharma)
+- LinkedIn: [parishasharma15](https://www.linkedin.com/in/parishasharma15)
 
 ---
 
@@ -303,13 +303,3 @@ This project is licensed under the MIT License.
 **Happy Learning! 🚀**
 
 </div>
-```
-
----
-
-## ✅ Two Things to Update
-
-Before saving, replace these two lines with your real info:
-```
-- GitHub: [@your-username](https://github.com/parisha-sharma)
-- LinkedIn: [your-linkedin](https://www.linkedin.com/in/parishasharma15)
