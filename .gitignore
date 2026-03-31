@@ -1,0 +1,28 @@
+# Virtual environment, it is too large to upload
+venv/
+
+# other large data files
+data/amazon_delivery.csv
+data/amazon_delivery_cleaned.csv
+data/amazon_delivery_features.csv
+
+notebooks/mlruns/
+mlruns/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.vscode/
+
+Thumbs.db
+Desktop.ini
+
+.ipynb_checkpoints/
+
+# Large model files — too big for GitHub
+models/random_forest.pkl
+models/xgboost.pkl
+models/linear_regression.pkl
