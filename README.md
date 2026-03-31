@@ -277,7 +277,7 @@ This project is licensed under the MIT License.
 
 ## 👤 Author
 
-**Parisha Sharma*
+*Parisha Sharma*
 
 - GitHub: [parisha-sharma](https://github.com/parisha-sharma)
 - LinkedIn: [parishasharma15](https://www.linkedin.com/in/parishasharma15)
